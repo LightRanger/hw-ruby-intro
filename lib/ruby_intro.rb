@@ -1,3 +1,8 @@
+# Isaiah Zipp
+# Dr. Nowak
+# CSCE 431-502
+# 1/26/20
+
 # When done, submit this entire file to the autograder.
 
 # Part 1
